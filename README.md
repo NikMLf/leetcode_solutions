@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
