@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
