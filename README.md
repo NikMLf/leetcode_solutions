@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NikMLf/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/NikMLf/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0009-palindrome-number) |
 ## Array
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/NikMLf/leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
