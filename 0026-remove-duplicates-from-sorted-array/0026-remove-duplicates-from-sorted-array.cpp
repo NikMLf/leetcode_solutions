@@ -1,15 +1,17 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        unordered_map<int, int> counts;
-        vector<int> result;
-        int count = 0;
-        for (int num : nums) {
-            counts[num]++;
-            if (counts[num] == 1) {count++; result.push_back(num);}
-        }
-        nums = std::move(result);
+        if (nums.empty()) return 0;
 
-        return count;
+        int insert_pos = 1; 
+
+        for (size_t i = 1; i < nums.size(); ++i) {
+            if (nums[i] != nums[i - 1]) {
+                nums[insert_pos] = nums[i]; 
+                insert_pos++;
+            }
+        }
+        nums.resize(insert_pos);
+        return nums.size();
     }
 };
