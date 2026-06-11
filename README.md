@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/NikMLf/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikMLf/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/NikMLf/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
 ## Hash Table
 |  |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NikMLf/leetcode_solutions/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NikMLf/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/NikMLf/leetcode_solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
