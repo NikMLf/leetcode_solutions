@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/NikMLf/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/NikMLf/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NikMLf/leetcode_solutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/NikMLf/leetcode_solutions/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
