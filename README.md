@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/NikMLf/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NikMLf/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NikMLf/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/NikMLf/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/NikMLf/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NikMLf/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NikMLf/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
