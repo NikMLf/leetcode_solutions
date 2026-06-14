@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NikMLf/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/NikMLf/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -76,10 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/NikMLf/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NikMLf/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -117,4 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
