@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/NikMLf/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NikMLf/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/NikMLf/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/NikMLf/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/NikMLf/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NikMLf/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/NikMLf/leetcode_solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
