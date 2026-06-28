@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NikMLf/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/NikMLf/leetcode_solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NikMLf/leetcode_solutions/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/NikMLf/leetcode_solutions/tree/master/0046-permutations) |
+| [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
