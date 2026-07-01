@@ -153,4 +153,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/NikMLf/leetcode_solutions/tree/master/0046-permutations) |
 | [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0090-subsets-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
