@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/NikMLf/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
+| [0136-single-number](https://github.com/NikMLf/leetcode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/NikMLf/leetcode_solutions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/NikMLf/leetcode_solutions/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
