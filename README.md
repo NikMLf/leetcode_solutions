@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/NikMLf/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/NikMLf/leetcode_solutions/tree/master/0038-count-and-say) |
+| [0065-valid-number](https://github.com/NikMLf/leetcode_solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/NikMLf/leetcode_solutions/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
