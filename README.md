@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/NikMLf/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
+| [0319-bulb-switcher](https://github.com/NikMLf/leetcode_solutions/tree/master/0319-bulb-switcher) |
 ## Array
 |  |
 | ------- |
@@ -185,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/NikMLf/leetcode_solutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
