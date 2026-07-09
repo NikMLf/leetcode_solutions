@@ -199,4 +199,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/NikMLf/leetcode_solutions/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/NikMLf/leetcode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
