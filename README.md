@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
@@ -93,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/NikMLf/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NikMLf/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NikMLf/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NikMLf/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NikMLf/leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0148-sort-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NikMLf/leetcode_solutions/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
