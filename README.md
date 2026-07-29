@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/NikMLf/leetcode_solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/NikMLf/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikMLf/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 | [0319-bulb-switcher](https://github.com/NikMLf/leetcode_solutions/tree/master/0319-bulb-switcher) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/NikMLf/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/NikMLf/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
