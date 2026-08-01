@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/boykisser428-ui/leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
+| [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/NikMLf/leetcode_solutions/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/NikMLf/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NikMLf/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/NikMLf/leetcode_solutions/tree/master/0089-gray-code) |
 | [0319-bulb-switcher](https://github.com/NikMLf/leetcode_solutions/tree/master/0319-bulb-switcher) |
+| [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikMLf/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NikMLf/leetcode_solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Hash Table
 |  |
 | ------- |
@@ -229,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikMLf/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
