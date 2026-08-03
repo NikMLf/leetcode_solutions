@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/NikMLf/leetcode_solutions/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikMLf/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/NikMLf/leetcode_solutions/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikMLf/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/NikMLf/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Array
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikMLf/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -241,4 +244,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/NikMLf/leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
