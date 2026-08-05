@@ -202,11 +202,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [3310-remove-methods-from-project](https://github.com/NikMLf/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/NikMLf/leetcode_solutions/tree/master/0101-symmetric-tree) |
+| [3310-remove-methods-from-project](https://github.com/NikMLf/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/NikMLf/leetcode_solutions/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
