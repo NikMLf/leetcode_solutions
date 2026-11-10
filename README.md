@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/NikMLf/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/NikMLf/leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0704-binary-search](https://github.com/NikMLf/leetcode_solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/NikMLf/leetcode_solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/NikMLf/leetcode_solutions/tree/master/1406-stone-game-iii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NikMLf/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/NikMLf/leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/NikMLf/leetcode_solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
